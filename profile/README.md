@@ -5,3 +5,5 @@ This is the name of my private modpack. It is based on [After Humans by Gronkh &
 Here you will find any Minecraft 1.7.10 mod made by me. You also find many open source mods I use that's development has been discontinued by the original mod author. I updated them for compatiblity, bugfixes and my own features. However, there are also a few forks I just have to contribute back to the original repositor.
 
 Feel free to use it in your private or public modpack or contribute back any bugfixes or features you have on your side. Every contribution is welcome. 🙂
+
+List of all mods in the pack: https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg
