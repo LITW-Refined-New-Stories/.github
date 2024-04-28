@@ -1,4 +1,4 @@
-# LITW Refined: New Stories
+# LITW Refined
 
 This is the name of my private modpack. It is based on [After Humans by Gronkh & Debitor](https://www.technicpack.net/modpack/minecraft-after-humans.1060474/) wich is based on [Life in the Woods Renaissance](http://lifeinthewoods.ca/downloads.html). The modpack is inteded to be more like LITW but with the possibility to use technic as you wish.
 
